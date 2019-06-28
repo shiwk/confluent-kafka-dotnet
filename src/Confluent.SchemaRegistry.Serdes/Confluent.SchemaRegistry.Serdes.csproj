@@ -14,9 +14,9 @@
     <Title>Confluent.SchemaRegistry.Serdes</Title>
     <AssemblyName>Confluent.SchemaRegistry.Serdes</AssemblyName>
     <VersionPrefix>1.1.0</VersionPrefix>
-    <TargetFrameworks>netstandard2.0;net452;</TargetFrameworks>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
